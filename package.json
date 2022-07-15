@@ -9,7 +9,18 @@
   },
   "bin": "./src/index.js",
   "keywords": [],
-  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "author": {
+    "name": "Fan, Yi-Jie",
+    "email": "fancn21th@aliyun.com",
+    "url": "https://fancn21th.cn"
+  },
+  "maintainers": [
+    {
+      "name": "Fan, Yi-Jie",
+      "email": "fancn21th@aliyun.com",
+      "url": "https://fancn21th.cn"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "chalk": "5.0.1",
