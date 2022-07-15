@@ -1,12 +1,13 @@
 {
-  "name": "cli-demo",
+  "name": "js-is-cool",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
+  "main": "./src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node ."
   },
+  "bin": "./src/index.js",
   "keywords": [],
   "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
   "license": "MIT",
