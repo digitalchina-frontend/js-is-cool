@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "5.0.1",
     "chalk-animation": "2.0.2",
     "inquirer": "9.0.1"
